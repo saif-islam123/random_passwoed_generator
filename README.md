@@ -10,7 +10,7 @@ Welcome to the PyPassword Generator! This Python script allows you to generate a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/saif-islam123/random_password_generator.git
+   https://github.com/saif-islam123/random_passwoed_generator
    cd random_password_generator
 
 
